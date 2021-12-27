@@ -1,6 +1,6 @@
 {
-  "name": "react-native-app-auth",
-  "version": "6.4.0",
+  "name": "react-native-app-auth-onsite",
+  "version": "6.4.2",
   "description": "React Native bridge for AppAuth for supporting any OAuth 2 provider",
   "main": "index.js",
   "types": "index.d.ts",
@@ -22,7 +22,7 @@
     "android",
     "ios",
     "index.d.ts",
-    "react-native-app-auth.podspec"
+    "react-native-app-auth-onsite.podspec"
   ],
   "repository": {
     "type": "git",
